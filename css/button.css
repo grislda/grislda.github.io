@@ -1,0 +1,49 @@
+
+#btn-group {
+   position:absolute;
+   bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+a {
+	color: black;
+	font-family: 'Bebas Neue', cursive;
+    background-color:white;
+	font-size: 20px; 
+	letter-spacing: 0.8px;
+	text-decoration: none;
+	padding: 10px 15px;
+}
+
+a:hover {
+	background-color: black;
+	color: white;
+}
+
+a:active {
+	background-color: black;
+	color:white;
+}
+
+
+b {
+	color: rgb(0, 0, 0);
+	/* font-family: 'Bebas Neue', cursive; */
+	font-weight: bold;
+    background-color:rgb(37,29,109);
+	font-size: 20px; 
+	letter-spacing: 0.8px;
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 10px 15px;
+}
+
+b:hover {
+    background-color: rgb(37,29,109); 
+}
+
+b:active {
+    background-color: rgb(63, 45, 104);
+}
+

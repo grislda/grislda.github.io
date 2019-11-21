@@ -1,0 +1,21 @@
+body {
+	background-image:url('https://static.tildacdn.com/tild6661-3131-4861-b463-623131373238/Gif-icon.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover
+}
+h1 {
+    position: absolute;
+   bottom: 140px;
+   right: 100px;
+   color:white;
+   font-family: 'Bebas Neue', cursive;
+}
+
+#header-img{
+    float:left;
+    width: 350px;
+    height: auto;
+    margin-top: -30px;
+    margin-left: -75px;
+}
